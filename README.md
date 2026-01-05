@@ -31,15 +31,15 @@ The project focuses on real-world QA practices, including test case design, test
 
 - **Key Features Tested:**
 
-      User login and logout
+   User login and logout
 
-      Product listing and sorting
+   Product listing and sorting
 
-      Add to cart and cart management
+   Add to cart and cart management
 
-      Checkout process
+   Checkout process
 
-      Input validation and error handling
+   Input validation and error handling
 
 
 **Testing Types Performed:**
