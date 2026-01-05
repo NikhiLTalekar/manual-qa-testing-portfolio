@@ -31,28 +31,28 @@ The project focuses on real-world QA practices, including test case design, test
 
 - **Key Features Tested:**
 
-   User login and logout
+   User login and logout.
 
-   Product listing and sorting
+   Product listing and sorting.
 
-   Add to cart and cart management
+   Add to cart and cart management.
 
-   Checkout process
+   Checkout process.
 
-   Input validation and error handling
+   Input validation and error handling.
 
 
 **Testing Types Performed:**
 
-- Manual Functional Testing
+- Manual Functional Testing.
 
-- Exploratory Testing
+- Exploratory Testing.
 
-- Regression Testing
+- Regression Testing.
 
-- End-to-End Testing
+- End-to-End Testing.
 
-- Usability Testing
+- Usability Testing.
 
 
 **Test Coverage:**
@@ -70,11 +70,11 @@ The project focuses on real-world QA practices, including test case design, test
 
 - Defects were identified and documented with:
 
-- Clear reproduction steps.
+  Clear reproduction steps.
 
-- Expected vs actual results.
+  Expected vs actual results.
 
-- Severity and status classification.
+  Severity and status classification.
 
-- Focus on usability, validation, and functional issues.
+  Focus on usability, validation, and functional issues.
 
