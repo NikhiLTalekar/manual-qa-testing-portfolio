@@ -10,14 +10,14 @@ The project focuses on real-world QA practices, including test case design, test
 
 **Objectives**
 
--Validate core e-commerce functionalities through manual functional testing
--Identify usability issues and edge cases through exploratory testing
--Document test cases, defects, and observations clearly
--Demonstrate understanding of Software Testing Life Cycle (STLC)
+- Validate core e-commerce functionalities through manual functional testing
+- Identify usability issues and edge cases through exploratory testing
+- Document test cases, defects, and observations clearly
+- Demonstrate understanding of Software Testing Life Cycle (STLC)
 
 **Tools & Technologies**
 
--**Microsoft Excel** – Test case creation and execution, defect tracking
--**Web Browsers** – UI validation and behaviour analysis
--**Microsoft Word** – Test documentation and reporting
--**GitHub** – Version control and project documentation
+- **Microsoft Excel** – Test case creation and execution, defect tracking
+- **Web Browsers** – UI validation and behaviour analysis
+- **Microsoft Word** – Test documentation and reporting
+- **GitHub** – Version control and project documentation
