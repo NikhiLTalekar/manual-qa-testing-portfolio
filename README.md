@@ -37,3 +37,38 @@ The project focuses on real-world QA practices, including test case design, test
 -- Checkout process
 
 -- Input validation and error handling
+
+**Testing Types Performed:**
+
+- Manual Functional Testing
+
+- Exploratory Testing
+
+- Regression Testing
+
+- End-to-End Testing
+
+- Usability Testing
+
+**Test Coverage:**
+
+- 20+ manual functional test cases executed
+
+- Positive and negative test scenarios covered
+
+- Validation of error messages and UI behaviour
+
+- Cross-page workflow validation (login → cart → checkout)
+
+**Defect Management:**
+
+- Defects were identified and documented with:
+
+- Clear reproduction steps
+
+- Expected vs actual results
+
+- Severity and status classification
+
+- Focus on usability, validation, and functional issues
+
