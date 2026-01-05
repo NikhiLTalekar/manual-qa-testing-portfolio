@@ -11,23 +11,23 @@ The project focuses on real-world QA practices, including test case design, test
 
 **Objectives:**
 
-- Validate core e-commerce functionalities through manual functional testing
-- Identify usability issues and edge cases through exploratory testing
-- Document test cases, defects, and observations clearly
-- Demonstrate understanding of Software Testing Life Cycle (STLC)
+- Validate core e-commerce functionalities through manual functional testing.
+- Identify usability issues and edge cases through exploratory testing.
+- Document test cases, defects, and observations clearly.
+- Demonstrate understanding of Software Testing Life Cycle. (STLC)
 
 
 **Tools & Technologies:**
 
-- **Microsoft Excel** – Test case creation and execution, defect tracking
-- **Web Browsers** – UI validation and behaviour analysis
-- **Microsoft Word** – Test documentation and reporting
-- **GitHub** – Version control and project documentation
+- **Microsoft Excel** – Test case creation and execution, defect tracking.
+- **Web Browsers** – UI validation and behaviour analysis.
+- **Microsoft Word** – Test documentation and reporting.
+- **GitHub** – Version control and project documentation.
 
 
 **Application Under Test:**
 
-- **Type:** Web-based E-Commerce Application
+- **Type:** Web-based E-Commerce Application.
 
 - **Key Features Tested:**
 
@@ -57,24 +57,24 @@ The project focuses on real-world QA practices, including test case design, test
 
 **Test Coverage:**
 
-- 20+ manual functional test cases executed
+- 20+ manual functional test cases executed.
 
-- Positive and negative test scenarios covered
+- Positive and negative test scenarios covered.
 
-- Validation of error messages and UI behaviour
+- Validation of error messages and UI behaviour.
 
-- Cross-page workflow validation (login → cart → checkout)
+- Cross-page workflow validation. (login → cart → checkout)
 
 
 **Defect Management:**
 
 - Defects were identified and documented with:
 
-- Clear reproduction steps
+- Clear reproduction steps.
 
-- Expected vs actual results
+- Expected vs actual results.
 
-- Severity and status classification
+- Severity and status classification.
 
-- Focus on usability, validation, and functional issues
+- Focus on usability, validation, and functional issues.
 
