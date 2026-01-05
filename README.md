@@ -63,7 +63,7 @@ The project focuses on real-world QA practices, including test case design, test
 
 - Validation of error messages and UI behaviour.
 
-- Cross-page workflow validation. (login → cart → checkout)
+- Cross-page workflow validation. (login - cart - checkout)
 
 
 **Defect Management:**
