@@ -8,22 +8,16 @@ This project demonstrates end-to-end manual and exploratory testing of a web-bas
 
 The project focuses on real-world QA practices, including test case design, test execution, exploratory testing, and defect reporting.
 
-Objectives
+**Objectives**
 
 Validate core e-commerce functionalities through manual functional testing
-
 Identify usability issues and edge cases through exploratory testing
-
 Document test cases, defects, and observations clearly
-
 Demonstrate understanding of Software Testing Life Cycle (STLC)
 
-Tools & Technologies
+**Tools & Technologies**
 
-Microsoft Excel – Test case creation and execution, defect tracking
-
-Web Browsers & DevTools – UI validation and behaviour analysis
-
-Microsoft Word – Test documentation and reporting
-
-GitHub – Version control and project documentation
+**Microsoft Excel** – Test case creation and execution, defect tracking
+**Web Browsers** – UI validation and behaviour analysis
+**Microsoft Word** – Test documentation and reporting
+**GitHub** – Version control and project documentation
